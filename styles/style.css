@@ -311,6 +311,10 @@
   flex-basis: 711px;
 }
 
+.footer__column_content_social {
+  list-style: none;
+}
+
 .footer__column-link {
   text-decoration: none;
   color: white;
