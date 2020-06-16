@@ -310,7 +310,7 @@
   flex-basis: 711px;
 }
 
-.column__link {
+.footer__column_link {
   text-decoration: none;
   color: white;
   margin: 0;
@@ -321,7 +321,7 @@
   font-weight: normal;
 }
 
-.column__link:hover {
+.footer__column_link:hover {
   cursor: pointer;
 }
 
@@ -349,7 +349,7 @@
   font-weight: bold;
 }
 
-.social-icon {
+.footer__social-icon {
   width: 16px;
   height: 16px;
 }
