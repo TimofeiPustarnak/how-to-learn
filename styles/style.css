@@ -295,6 +295,8 @@
   background-color: #1f1f1f;
   min-height: 350px;
   display: flex;
+  justify-content: center;
+  align-items: stretch;
 }
 
 .footer__columns {
@@ -302,7 +304,6 @@
   margin: 0;
   position: relative;
   width: 90%;
-  margin: auto;
   justify-content: space-between;
 }
 
