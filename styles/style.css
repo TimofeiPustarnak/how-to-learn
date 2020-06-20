@@ -316,8 +316,9 @@
   flex-basis: 711px;
 }
 
-.footer__column_content_social {
-  list-style: none;
+.footer__column-links {
+  list-style-type: none;
+  padding: 0;
 }
 
 .footer__column-link {
