@@ -3,5 +3,6 @@
   height: 608px;
   background-image: url(../../../sprint-2-sources/images_sprint-2/khan-book.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
   margin-right: 48px;
 }

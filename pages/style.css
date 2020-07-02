@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../bloks/rotation/rotation.css);
 @import url(../bloks/header/header.css);
 @import url(../bloks/page/page.css);
